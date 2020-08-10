@@ -1,3 +1,2 @@
 Smoke: Doc, heal me!
-Doc:
 check git push
